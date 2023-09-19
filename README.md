@@ -1,4 +1,5 @@
 # Stock-Market-prediction
+
 In this 1 Task of Data Science intership, 📈 I analyzed Tesla stock data for market trend prediction. After data preprocessing, including feature engineering and standardization, I utilized Logistic Regression, Support Vector Classifier (SVC), and XGBoost Classifier to build predictive models. These models achieved strong AUC-ROC scores on both training and validation data. Additionally, I conducted exploratory data analysis, including visualizations and correlation analysis.🚀💹 
 Stock market prediction taking data of Tesla Company from 2010 - 2020.
 
@@ -46,3 +47,7 @@ As a result, stock market prediction models often incorporate various data sourc
 While stock market prediction aims to provide valuable insights and assist decision-making, it's essential to acknowledge that all predictions involve uncertainty,
 and there are inherent risks associated with trading and investing in financial markets. 
 Therefore, investors and traders should use predictions as one of many tools for decision-making and should not rely solely on them for financial decisions.
+
+Explore the video summarizing the results on Linked or Youtube.
+Youtube-> https://youtu.be/ANmU8JIYPe0?si=-eNLf9liscI3sGHn
+Linkedin -> https://www.linkedin.com/posts/ramesh-gyawali-53777724a_datascience-machinelearning-stockmarketprediction-activity-7109827269027647488-wNo8?utm_source=share&utm_medium=member_desktop
